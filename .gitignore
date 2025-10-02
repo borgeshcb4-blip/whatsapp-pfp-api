@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Local session files (não comitar!)
+session/
+
+# Vercel directory
+.vercel/
+
+# Environment files
+.env
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
